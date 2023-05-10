@@ -1,0 +1,27 @@
+*{
+  margin:  0;
+  padding: 0;
+}
+.cabecalho{
+  background-color: darkorange;
+  color:rgb(212, 24, 24)
+  display:flex;
+  justify-content:space-around;
+  align_items:center;
+  padding: 30px 0;
+}
+.cabecalho-item{
+  display:inline-block;
+  padding: 0 25px;
+}
+.cabecalho-item{
+  width: 25%;
+}
+.escola{
+  background-image:linear-gradient(#04d5e4);
+  color:white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 55px 0;
+}
